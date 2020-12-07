@@ -1,0 +1,11 @@
+/Users/vladimir/Desktop/OS/FirstPractic/bin/Debug/netcoreapp3.0/FirstPractic
+/Users/vladimir/Desktop/OS/FirstPractic/bin/Debug/netcoreapp3.0/FirstPractic.deps.json
+/Users/vladimir/Desktop/OS/FirstPractic/bin/Debug/netcoreapp3.0/FirstPractic.runtimeconfig.json
+/Users/vladimir/Desktop/OS/FirstPractic/bin/Debug/netcoreapp3.0/FirstPractic.runtimeconfig.dev.json
+/Users/vladimir/Desktop/OS/FirstPractic/bin/Debug/netcoreapp3.0/FirstPractic.dll
+/Users/vladimir/Desktop/OS/FirstPractic/bin/Debug/netcoreapp3.0/FirstPractic.pdb
+/Users/vladimir/Desktop/OS/FirstPractic/obj/Debug/netcoreapp3.0/FirstPractic.csprojAssemblyReference.cache
+/Users/vladimir/Desktop/OS/FirstPractic/obj/Debug/netcoreapp3.0/FirstPractic.AssemblyInfoInputs.cache
+/Users/vladimir/Desktop/OS/FirstPractic/obj/Debug/netcoreapp3.0/FirstPractic.AssemblyInfo.cs
+/Users/vladimir/Desktop/OS/FirstPractic/obj/Debug/netcoreapp3.0/FirstPractic.dll
+/Users/vladimir/Desktop/OS/FirstPractic/obj/Debug/netcoreapp3.0/FirstPractic.pdb

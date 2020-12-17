@@ -1,0 +1,11 @@
+/Users/vladimir/Desktop/OS/Practic2/bin/Debug/netcoreapp3.0/Practic2
+/Users/vladimir/Desktop/OS/Practic2/bin/Debug/netcoreapp3.0/Practic2.deps.json
+/Users/vladimir/Desktop/OS/Practic2/bin/Debug/netcoreapp3.0/Practic2.runtimeconfig.json
+/Users/vladimir/Desktop/OS/Practic2/bin/Debug/netcoreapp3.0/Practic2.runtimeconfig.dev.json
+/Users/vladimir/Desktop/OS/Practic2/bin/Debug/netcoreapp3.0/Practic2.dll
+/Users/vladimir/Desktop/OS/Practic2/bin/Debug/netcoreapp3.0/Practic2.pdb
+/Users/vladimir/Desktop/OS/Practic2/obj/Debug/netcoreapp3.0/Practic2.csprojAssemblyReference.cache
+/Users/vladimir/Desktop/OS/Practic2/obj/Debug/netcoreapp3.0/Practic2.AssemblyInfoInputs.cache
+/Users/vladimir/Desktop/OS/Practic2/obj/Debug/netcoreapp3.0/Practic2.AssemblyInfo.cs
+/Users/vladimir/Desktop/OS/Practic2/obj/Debug/netcoreapp3.0/Practic2.dll
+/Users/vladimir/Desktop/OS/Practic2/obj/Debug/netcoreapp3.0/Practic2.pdb
